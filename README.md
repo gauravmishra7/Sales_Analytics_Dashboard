@@ -48,6 +48,6 @@ Used the Power BI Desktop application to create reports based on the data model.
 
 ## Live Dashboard
 
-1) Explore the live dashboards [Sales_Analytics](https://app.powerbi.com/view?r=eyJrIjoiOGZkZGI0ZjEtMDUxNS00MzNjLThjNTctZWI5YTdmMTU4NTc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]).
+1) Explore the live dashboards [Sales_Analytics](https://app.powerbi.com/view?r=eyJrIjoiOGZkZGI0ZjEtMDUxNS00MzNjLThjNTctZWI5YTdmMTU4NTc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 2) Open the link above to access the interactive dashboards.
 3) Use the toggle buttons and bookmarks for seamless navigation between views.
